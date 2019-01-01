@@ -1,2 +1,2 @@
-# Channel_Logo_Detection
+# Channel Logo Detection
 Side Project
